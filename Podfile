@@ -16,7 +16,7 @@ target 'Clipy' do
   pod 'RxSwift'
   pod 'RxOptional'
   pod 'LoginServiceKit', :git => 'https://github.com/Clipy/LoginServiceKit.git'
-  pod 'KeyHolder'
+  pod 'KeyHolder', :git => 'git@github.com:Clipy/KeyHolder.git', :branch => 'master'
   pod 'RxScreeen'
   pod 'AEXML'
   pod 'LetsMove'

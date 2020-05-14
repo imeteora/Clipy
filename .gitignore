@@ -28,7 +28,7 @@ vendor
 # you should judge for yourself, the pros and cons are mentioned at:
 # http://guides.cocoapods.org/using/using-cocoapods.html#should-i-ignore-the-pods-directory-in-source-control
 #
-# Pods/
+Pods/
 
 # Carthage
 #
@@ -47,3 +47,6 @@ Carthage/Builda
 fastlane/report.xml
 fastlane/test_output/
 fastlane/screenshots
+
+# MacOS Finder
+.DS_Store
